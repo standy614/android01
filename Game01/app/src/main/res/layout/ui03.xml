@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="与微信好友玩"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/button1"
+        android:background="@drawable/pandora_eachitem_button"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="与微信好友玩"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/button2"
+        android:background="@drawable/pandora_eachitem_button"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parentt"
+        android:id="@+id/imageView"
+        android:layout_gravity="center|bottom"
+        android:background="@drawable/pandora_bankcard_getbg"
+        android:alpha="0.3"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center|bottom"
+        android:background="@drawable/pandora_each_bg"
+        android:alpha="0.7"/>
+</FrameLayout>

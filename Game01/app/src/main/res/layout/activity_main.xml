@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:columnCount="8"
+    android:rowCount="8"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.zhl.game01.MainActivity">
+
+    <Space android:layout_height="@dimen/s_width"
+        android:layout_columnSpan="8"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/four"
+        android:text="@string/four"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/two"
+        android:text="@string/two"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/eight"
+        android:text="@string/eight"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/sixteen"
+        android:text="@string/sixteen"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+
+    <Space android:layout_height="@dimen/s_width"
+        android:layout_columnSpan="8"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/four"
+        android:text="@string/four"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/two"
+        android:text="@string/two"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/eight"
+        android:text="@string/eight"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/sixteen"
+        android:text="@string/sixteen"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+
+    <Space android:layout_height="@dimen/s_width"
+        android:layout_columnSpan="8"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/four"
+        android:text="@string/four"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/two"
+        android:text="@string/two"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/eight"
+        android:text="@string/eight"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/sixteen"
+        android:text="@string/sixteen"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+
+    <Space android:layout_height="@dimen/s_width"
+        android:layout_columnSpan="8"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/four"
+        android:text="@string/four"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/two"
+        android:text="@string/two"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/eight"
+        android:text="@string/eight"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+    <Space android:layout_width="@dimen/s_width"/>
+    <TextView
+        android:layout_width="@dimen/l_width"
+        android:layout_height="@dimen/l_width"
+        android:background="@color/sixteen"
+        android:text="@string/sixteen"
+        android:gravity="center"
+        android:textSize="@dimen/textsize"/>
+
+
+
+
+
+</GridLayout>
