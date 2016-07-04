@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI02</string>
+    <string name="app_name1">个性签名</string>
+    <string name="app_name2">我的资料</string>
+    <string name="app_name3">消息通知</string>
+    <string name="app_name4">辅助功能</string>
+</resources>
