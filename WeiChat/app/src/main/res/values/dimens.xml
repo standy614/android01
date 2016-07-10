@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="wei_font_size01">16sp</dimen>
+    <dimen name="space01">0dp</dimen>
+    <dimen name="space02">10dp</dimen>
+
+    <dimen name="weight01">0.082</dimen>
+    <dimen name="weight02">0.036</dimen>
+    <dimen name="weight03">0.125</dimen>
+</resources>

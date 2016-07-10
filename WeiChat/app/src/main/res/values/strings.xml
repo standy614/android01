@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeiChat</string>
+
+    <string name="weichat">微信</string>
+    <string name="name">闭眼疼先生</string>
+    <string name="number">微信号：BYT1234567890</string>
+    <string name="picture">相册</string>
+    <string name="collation">收藏</string>
+    <string name="walte">钱包</string>
+    <string name="car">卡劵</string>
+    <string name="imges">表情</string>
+    <string name="setting">设置</string>
+
+    <string name="contact">通讯录</string>
+    <string name="find">发现</string>
+    <string name="me">我</string>
+</resources>
